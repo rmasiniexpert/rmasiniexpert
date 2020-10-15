@@ -1,7 +1,7 @@
 ## Create new opportunities for your company with exclusive humanized AI models
 
 
-<iframe src="https://drive.google.com/file/d/17lJr4oSI0UdbY9cAPQxC2ougYP310ndv/preview" width="640" height="480"></iframe>
+<img align='right' src="https://drive.google.com/1/uc?export=view&id=7lJr4oSI0UdbY9cAPQxC2ougYP310ndv" width="640" height="480">
 
 
 Hi. I’m **Rodrigo Masini**, a **senior Data Scientist** with a very rich educational background in Medicine (specialist in Pediatrics),
