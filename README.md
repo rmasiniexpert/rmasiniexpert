@@ -10,10 +10,10 @@ science).
 **Focused on leverage data to solve business challenges through machine learning models and other AI
 approaches.**
 
-4 years dedicated to create a data analytics culture for all size business, from brainstorm
+4 years dedicated to creating a data analytics culture for all size business, from brainstorm
 ideas, development and management of AI projects reaching the deployment of a new efficient, smart and
 automated technology into business operations. Also, I'm responsible for creating machine learning models
-**that use exclusive personality and human behavior to increase sales and management results of 30% above "traditional" AI models**.
+**which uses exclusive personality and human behaviour to increase sales and management results in 30% above of "traditional" AI models**.
 
 More, an innovative MD with a strong leadership manager with 10+ years of experience focused on
 healthcare strategies, clinical research, project management tasks, and data science projects.
@@ -21,7 +21,7 @@ Creative, organized, dedicated and compromised with excellence in all project de
 the excellence of the results.
 
 
-Get in touch with me to leran more how you can make more money, helping people have what they want (**ethically!**)
+Get in touch with me to learn more about how you can make more money!
 
 
 <a href="https://twitter.com/rodrigo_masini"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
