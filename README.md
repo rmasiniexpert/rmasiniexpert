@@ -1,7 +1,7 @@
 ## Create new opportunities for your company with exclusive humanized AI models
 
 
-![rmasiniexpert](https://drive.google.com/file/d/17lJr4oSI0UdbY9cAPQxC2ougYP310ndv/view?usp=sharing)
+[rmasiniexpert](https://drive.google.com/file/d/17lJr4oSI0UdbY9cAPQxC2ougYP310ndv/view?usp=sharing)
 
 Hi. I’m **Rodrigo Masini**, a **senior Data Scientist** with a very rich educational background in Medicine (specialist in Pediatrics),
 Mathematics, Physics, Project Manager (six lean sigma) and MBA in business and technology (data
