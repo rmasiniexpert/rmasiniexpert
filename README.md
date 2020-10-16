@@ -1,7 +1,7 @@
 ## Create new opportunities for your company with exclusive humanized AI models
 
 
-<img align='right' src="https://callminer.com/wp-content/uploads/shutterstock_668495107-16x9-ratio-e1533832806707.jpg" width="440" height="510">
+<img align='right' src="https://www.cumanagement.com/sites/default/files/2018-09/AI-human-heads.jpg" width="440" height="510">
 
 
 Hi. I’m **Rodrigo Masini**, a **senior Data Scientist** with a very rich educational background in Medicine (specialist in Pediatrics),
