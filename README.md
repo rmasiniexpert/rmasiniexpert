@@ -1,7 +1,7 @@
 ## Create new opportunities for your company with exclusive humanized AI models
 
 
-<img align='right' src="https://www.cumanagement.com/sites/default/files/2018-09/AI-human-heads.jpg" width="440" height="510">
+<img align='right' src="https://www.cumanagement.com/sites/default/files/2018-09/AI-human-heads.jpg" width="440" height="490">
 
 
 Hi. I’m **Rodrigo Masini**, a **senior Data Scientist** with a very rich educational background in Medicine (specialist in Pediatrics),
