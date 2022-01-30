@@ -1,4 +1,4 @@
-## Create new opportunities for your company with exclusive humanized AI models
+## Digital/Virtual Health and Medical Manager, AI/MLOps specialist 
 
 
 <img align='right' src="https://www.cumanagement.com/sites/default/files/2018-09/AI-human-heads.jpg" width="440" height="490">
