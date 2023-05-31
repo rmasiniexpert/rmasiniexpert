@@ -1,12 +1,12 @@
-## Digital/Virtual Health and Medical Manager, AI/MLOps specialist 
+## Lead MLOps and LLM Engineer - Top 1% AI/ML AWS-Azure-Databricks SME 
 
 
 <img align='right' src="https://www.cumanagement.com/sites/default/files/2018-09/AI-human-heads.jpg" width="440" height="490">
 
 
-Hi! I’m **Rodrigo Masini**, a **Senior Data Scientist** and **Health and Medical services manager specialized in Digital/Virual Health**.
-My very rich educational background in Medicine (specialist in Pediatrics), Mathematics, Physics, Project Manager (six lean sigma and Agile) and MBA in business and technology.
-**Focused on leverage data to solve business challenges through machine learning models and other AI approaches.**
+Hi! I’m **Rodrigo Masini**, a **Senior MLOps Engineer** and **MLOps book author**.
+My very rich educational background in Data Science,  Mathematics, Physics, Project Manager (six lean sigma and Agile), Medicine (specialist in Pediatrics), and MBA in business and technology.
+**Focused on leverage MLOps to scale ML models and exclusive ML Management Zone methodology augumented by gen AI LLM to overcome business challenges.**
 
 A rich +12 years of experience working in roles from Management to Strategic complex digital health projects, applying different tools such as: Informatica, SnowFlake, AWS, GCP, NVIDIA, UiPath and others.
 +5 years dedicated exclusively to plan, design, implement and monitor data analytics and ML projects culture for all size business. Supporting an end to end lyfecycle of data projects from brainstorm ideas, development and management of AI projects reaching the deployment of a new efficient, smart and automated technology into business operations. Also, I was responsible for creating machine learning models using propensity methodology, risk stratification, financial forecasting in Revenue Cycle Management and Scorecards that could reduce operational costs and improve quality of care.
